@@ -1,0 +1,14 @@
+---
+name: LuckyPot
+main: LuckyPot\Main
+version: 1.200000
+api:
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA11
+author: FreakingDev
+commands:
+  addpot:
+    desctiption: Add Floating Text
+    permission: luckypot.addpot
+...
