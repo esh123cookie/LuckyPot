@@ -3,9 +3,9 @@ name: LuckyPot
 main: LuckyPot\Main
 version: 1.2
 api:
-- 3.0.0-ALPHA9
-- 3.0.0-ALPHA10
-- 3.0.0-ALPHA11
+- 3.0.0
+- 4.0.0
+- 5.0.0
 author: BurritoMan46
 commands:
   addpot:
